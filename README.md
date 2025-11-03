@@ -87,8 +87,8 @@ O projeto demonstra como técnicas de *machine learning* podem ser aplicadas par
 | Linguagem | Python 3 |
 | Manipulação de dados | Pandas, NumPy |
 | Visualização | Matplotlib, Seaborn |
-| Modelagem | Scikit-learn, XGBoost, Imbalanced-learn |
-| Exportação de métricas | openpyxl, pandas |
+| Modelagem | Scikit-learn, XGBoost |
+| Exportação de dados | openpyxl, pandas |
 | Ambiente | Jupyter Notebook |
 
 ---
