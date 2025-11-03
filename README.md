@@ -64,12 +64,11 @@ O modelo **XGBoost** apresentou o melhor desempenho, alcançando:
 - **F1-score:** 0.88  
 
 As variáveis mais influentes incluíram:  
-- Duração da chamada (*duration*)  
-- Número de contactos anteriores (*campaign*)  
-- Saldo médio (*balance*)  
-- Idade  
-- Tipo de contacto (*contact*)  
-
+- Duração da chamada última chamada
+- Número de contactos na campanha anterior 
+- Saldo anual médio
+- Idade
+  
 ---
 
 ## 🧠 Conclusão
