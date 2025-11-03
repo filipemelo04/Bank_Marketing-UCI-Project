@@ -126,14 +126,6 @@ jupyter notebook Bank_Marketing-Project.ipynb
 
 ---
 
-## 📈 Próximos Passos
-- Implementar *hyperparameter tuning* com **GridSearchCV**  
-- Criar API para predição em tempo real  
-- Integrar modelo com dashboard em **Streamlit**  
-
----
-
 ## 👤 Autor
-**[O teu nome]**  
-📧 Email: [teu_email@email.com]  
-💼 LinkedIn: [linkedin.com/in/teu-perfil](#)
+**Filipe Araújo Melo**  
+📧 Email: melofilipe4@hotmail.com] 
